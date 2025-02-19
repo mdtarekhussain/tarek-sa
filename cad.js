@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
       textContainer.classList.remove("show");
 
       // হার্ট আগের জায়গায় ফেরত যাবে এবং লাল হয়ে যাবে
-      heartContainer.style.marginTop = "10px"; // আগের অবস্থা
+      heartContainer.style.marginTop = "12px"; // আগের অবস্থা
       heart.classList.remove("black-heart"); // লাল রঙে ফিরে আসবে
 
       // "Click the heart" মেসেজ আবার দেখানো হবে
